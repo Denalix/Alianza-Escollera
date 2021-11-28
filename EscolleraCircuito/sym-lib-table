@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ttgo_lora32)(type Legacy)(uri C:/Users/DANIEL/Documents/Personal/Convocatorias/Escollera/tesis/ttgo_lora32.lib)(options "")(descr ""))
+  (lib (name Escollera-rescue)(type Legacy)(uri ${KIPRJMOD}/Escollera-rescue.lib)(options "")(descr ""))
+)
