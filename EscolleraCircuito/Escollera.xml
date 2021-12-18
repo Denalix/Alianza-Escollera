@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\DANIEL\Documents\Personal\Convocatorias\Escollera\tesis\Repositorio Alianza Escollera\EscolleraCircuito\Escollera.sch</source>
+    <date>17/12/2021 6:09:15 p. m.</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Escollera.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U3">
+      <value>MAX485E</value>
+      <footprint>escolleraHuellas:max485_TTL_RS485</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf</datasheet>
+      <libsource lib="Interface_UART" part="MAX485E" description="Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616E446E</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-396_A-41791-0004_1x04_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616E634A</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_Molex:Molex_KK-396_A-41791-0004_1x04_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616E77DA</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM7812_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="LM7812_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616ED667</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM7805_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="LM7805_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616EEB39</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616EF701</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>330nF</value>
+      <footprint>Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616F0A57</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616F197F</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>330nF</value>
+      <footprint>Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616F1AC0</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616F1AFA</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TTGO_LoRa32</value>
+      <footprint>escolleraHuellas:TTGO</footprint>
+      <libsource lib="Escollera-rescue" part="TTGO_LoRa32-ttgo_lora32" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6170B131</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>MAX485E</value>
+      <footprint>escolleraHuellas:max485_TTL_RS485</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf</datasheet>
+      <libsource lib="Interface_UART" part="MAX485E" description="Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616E2D0F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Escollera-rescue" part="TTGO_LoRa32-ttgo_lora32">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TTGO_LoRa32-ttgo_lora32</field>
+      </fields>
+      <pins>
+        <pin num="0" name="GND" type="input"/>
+        <pin num="2" name="IO2" type="input"/>
+        <pin num="3.3V" name="3,3V" type="input"/>
+        <pin num="4" name="5V" type="input"/>
+        <pin num="5V" name="5V" type="input"/>
+        <pin num="12" name="IO12" type="input"/>
+        <pin num="13" name="IO13" type="input"/>
+        <pin num="14" name="IO14" type="input"/>
+        <pin num="15" name="IO15" type="input"/>
+        <pin num="19" name="IO19" type="input"/>
+        <pin num="21" name="IO21" type="input"/>
+        <pin num="22" name="IO22" type="input"/>
+        <pin num="23" name="IO23" type="input"/>
+        <pin num="25" name="IO25" type="input"/>
+        <pin num="26" name="IO26" type="input"/>
+        <pin num="34" name="IO34" type="input"/>
+        <pin num="35" name="IO35" type="input"/>
+        <pin num="36" name="S_VP" type="input"/>
+        <pin num="39" name="S_VIN" type="input"/>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="LoRa1" name="LoRa1" type="input"/>
+        <pin num="LoRa2" name="LoRa2" type="input"/>
+        <pin num="RST" name="RST" type="input"/>
+        <pin num="RX0" name="RXD" type="input"/>
+        <pin num="TX0" name="TXD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="MAX481E">
+      <aliases>
+        <alias>MAX483E</alias>
+        <alias>MAX485E</alias>
+        <alias>MAX487E</alias>
+        <alias>MAX1487E</alias>
+        <alias>MAX3485</alias>
+        <alias>MAX3483</alias>
+        <alias>MAX3486</alias>
+      </aliases>
+      <description>Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, with low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX481E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RO" type="output"/>
+        <pin num="2" name="~RE" type="input"/>
+        <pin num="3" name="DE" type="input"/>
+        <pin num="4" name="DI" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="A" type="BiDi"/>
+        <pin num="7" name="B" type="BiDi"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM7805_TO220">
+      <aliases>
+        <alias>LM7806_TO220</alias>
+        <alias>LM7808_TO220</alias>
+        <alias>LM7809_TO220</alias>
+        <alias>LM7810_TO220</alias>
+        <alias>LM7812_TO220</alias>
+        <alias>LM7815_TO220</alias>
+        <alias>LM7818_TO220</alias>
+        <alias>LM7824_TO220</alias>
+        <alias>LM78M05_TO220</alias>
+        <alias>SPX2920U-3.3_TO220</alias>
+        <alias>SPX2920U-5.0_TO220</alias>
+        <alias>LF15_TO220</alias>
+        <alias>LF18_TO220</alias>
+        <alias>LF25_TO220</alias>
+        <alias>LF33_TO220</alias>
+        <alias>LF50_TO220</alias>
+        <alias>LF60_TO220</alias>
+        <alias>LF80_TO220</alias>
+        <alias>LF85_TO220</alias>
+        <alias>LF120_TO220</alias>
+        <alias>LF47_TO220</alias>
+        <alias>LF90_TO220</alias>
+        <alias>LM341T-05_TO220</alias>
+        <alias>LM341T-12_TO220</alias>
+        <alias>LM341T-15_TO220</alias>
+        <alias>LM2937xT</alias>
+        <alias>LM2931-3.3_TO220</alias>
+        <alias>LM2931-5.0_TO220</alias>
+      </aliases>
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
+      <docs>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7805_TO220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Escollera-rescue">
+      <uri>C:\Users\DANIEL\Documents\Personal\Convocatorias\Escollera\tesis\Repositorio Alianza Escollera\EscolleraCircuito/Escollera-rescue.lib</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Interface_UART.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Regulator_Linear.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U3-Pad1)">
+      <node ref="U5" pin="RX0"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="2" name="Net-(U4-Pad4)">
+      <node ref="U5" pin="TX0"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="3" name="Net-(U3-Pad2)">
+      <node ref="U3" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="U5" pin="13"/>
+    </net>
+    <net code="4" name="Net-(U4-Pad2)">
+      <node ref="U5" pin="12"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="5" name="Net-(U5-Pad36)">
+      <node ref="U5" pin="36"/>
+    </net>
+    <net code="6" name="Net-(U5-Pad39)">
+      <node ref="U5" pin="39"/>
+    </net>
+    <net code="7" name="Net-(U5-PadRST)">
+      <node ref="U5" pin="RST"/>
+    </net>
+    <net code="8" name="Net-(U5-PadLoRa1)">
+      <node ref="U5" pin="LoRa1"/>
+    </net>
+    <net code="9" name="Net-(U5-PadLoRa2)">
+      <node ref="U5" pin="LoRa2"/>
+    </net>
+    <net code="10" name="Net-(U5-Pad34)">
+      <node ref="U5" pin="34"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="J3" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="U5" pin="GND"/>
+      <node ref="U3" pin="5"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad3)">
+      <node ref="U3" pin="7"/>
+      <node ref="U4" pin="7"/>
+      <node ref="J3" pin="3"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="13" name="Net-(C4-Pad1)">
+      <node ref="U4" pin="8"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U3" pin="8"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U5" pin="5V"/>
+    </net>
+    <net code="14" name="Net-(U5-Pad19)">
+      <node ref="U5" pin="19"/>
+    </net>
+    <net code="15" name="Net-(U5-Pad35)">
+      <node ref="U5" pin="35"/>
+    </net>
+    <net code="16" name="Net-(U5-Pad14)">
+      <node ref="U5" pin="14"/>
+    </net>
+    <net code="17" name="Net-(U5-Pad15)">
+      <node ref="U5" pin="15"/>
+    </net>
+    <net code="18" name="Net-(U5-Pad2)">
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="19" name="Net-(U5-Pad0)">
+      <node ref="U5" pin="0"/>
+    </net>
+    <net code="20" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="21" name="Net-(U5-Pad25)">
+      <node ref="U5" pin="25"/>
+    </net>
+    <net code="22" name="Net-(U5-Pad3.3V)">
+      <node ref="U5" pin="3.3V"/>
+    </net>
+    <net code="23" name="Net-(U5-PadGND)">
+      <node ref="U5" pin="GND"/>
+    </net>
+    <net code="24" name="Net-(U5-Pad26)">
+      <node ref="U5" pin="26"/>
+    </net>
+    <net code="25" name="Net-(U5-Pad23)">
+      <node ref="U5" pin="23"/>
+    </net>
+    <net code="26" name="Net-(U5-Pad22)">
+      <node ref="U5" pin="22"/>
+    </net>
+    <net code="27" name="Net-(U5-Pad21)">
+      <node ref="U5" pin="21"/>
+    </net>
+    <net code="28" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="29" name="Net-(U3-Pad4)">
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="30" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="U4" pin="6"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C1-Pad1)">
+      <node ref="J2" pin="4"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U2" pin="1"/>
+      <node ref="J3" pin="4"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="32" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+  </nets>
+</export>

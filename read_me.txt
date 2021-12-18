@@ -12,3 +12,10 @@ carpeta EscolleraCircuito:
     "Escollera.kicad_pb_under.kicad_pcb"
     En esta carpeta también está las huellas, los modelos cad para la visualización
     en 3d y los Gerber.
+
+carpeta entregrables
+    en esta carpeta se encuentra cosas como el pdf de la pcb y del esquematico y la BOM.
+
+carpeta miscelanea
+    en esta carpeta hay archivos extra. Se encuentran diagramas para aclarar la conexión y el 
+    diagrama de bloques. 
