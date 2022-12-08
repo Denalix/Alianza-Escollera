@@ -1,0 +1,257 @@
+08:23:24.274 -> LoRa Receiver
+08:23:25.300 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 31 d a 
+08:23:25.300 -> ' with RSSI -23
+08:23:30.422 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 32 d a 
+08:23:30.422 -> ' with RSSI -23
+08:23:35.562 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 33 d a 
+08:23:35.562 -> ' with RSSI -23
+08:23:40.706 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 34 d a 
+08:23:40.706 -> ' with RSSI -23
+08:23:45.808 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 35 d a 
+08:23:45.808 -> ' with RSSI -23
+08:23:50.969 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 36 d a 
+08:23:50.969 -> ' with RSSI -23
+08:23:56.066 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 37 d a 
+08:23:56.113 -> ' with RSSI -23
+08:24:01.228 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 38 d a 
+08:24:01.228 -> ' with RSSI -23
+08:24:06.335 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 39 d a 
+08:24:06.335 -> ' with RSSI -24
+08:24:11.496 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 30 d a 
+08:24:11.496 -> ' with RSSI -24
+08:24:16.613 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 31 d a 
+08:24:16.613 -> ' with RSSI -24
+08:24:21.742 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 32 d a 
+08:24:21.742 -> ' with RSSI -24
+08:24:26.865 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 33 d a 
+08:24:26.865 -> ' with RSSI -23
+08:24:32.016 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 34 d a 
+08:24:32.016 -> ' with RSSI -23
+08:24:37.128 -> Received packet 'SerialNumber 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 35 d a 
+08:24:37.128 -> ' with RSSI -23
+
+
+
+-------------------------------------------------------------------------------------
+
+11:15:24.026 -> ' with RSSI -19
+11:15:29.085 -> Received packet 'transmitiendo getTempCondRequest... 
+11:15:29.085 -> ' with RSSI -19
+11:15:29.317 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 39 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 30 d a 1 3 26 0 0 5 1 46 
+11:15:29.317 -> ' with RSSI -19
+11:15:34.341 -> Received packet 'SerialNumber 
+11:15:34.341 -> ' with RSSI -17
+11:15:34.574 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 31 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 32 d a 1 3 90 0 0 7 c9 fc 
+11:15:34.574 -> ' with RSSI -20
+11:15:39.639 -> Received packet 'transmitiendo getTempCondRequest... 
+11:15:39.639 -> ' with RSSI -19
+11:15:39.872 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 33 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 34 d a 1 3 26 0 0 5 1 46 
+11:15:39.872 -> ' with RSSI -19
+11:15:44.920 -> Received packet 'SerialNumber 
+11:15:44.920 -> ' with RSSI -17
+11:15:45.158 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 35 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 36 d a 1 3 90 0 0 7 c9 fc 
+11:15:45.158 -> ' with RSSI -19
+11:15:50.239 -> Received packet 'transmitiendo getTempCondRequest... 
+11:15:50.239 -> ' with RSSI -18
+11:15:50.472 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 37 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 38 d a 1 3 26 0 0 5 1 46 
+11:15:50.472 -> ' with RSSI -19
+11:15:55.500 -> Received packet 'SerialNumber 
+11:15:55.500 -> ' with RSSI -17
+11:15:55.738 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 39 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 30 d a 1 3 90 0 0 7 c9 fc 
+11:15:55.738 -> ' with RSSI -19
+11:16:00.819 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:00.819 -> ' with RSSI -19
+11:16:01.005 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 31 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 32 d a 1 3 26 0 0 5 1 46 
+11:16:01.051 -> ' with RSSI -19
+11:16:06.081 -> Received packet 'SerialNumber 
+11:16:06.081 -> ' with RSSI -17
+11:16:06.314 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 33 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 34 d a 1 3 90 0 0 7 c9 fc 
+11:16:06.314 -> ' with RSSI -19
+11:16:11.386 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:11.386 -> ' with RSSI -19
+11:16:11.618 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 35 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 36 d a 1 3 26 0 0 5 1 46 
+11:16:11.618 -> ' with RSSI -19
+11:16:16.651 -> Received packet 'SerialNumber 
+11:16:16.651 -> ' with RSSI -17
+11:16:16.885 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 37 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 38 d a 1 3 90 0 0 7 c9 fc 
+11:16:16.885 -> ' with RSSI -19
+11:16:21.963 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:21.963 -> ' with RSSI -19
+11:16:22.193 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 39 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 30 d a 1 3 26 0 0 5 1 46 
+11:16:22.193 -> ' with RSSI -19
+11:16:27.208 -> Received packet 'SerialNumber 
+11:16:27.208 -> ' with RSSI -17
+11:16:27.441 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 31 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 32 d a 1 3 90 0 0 7 c9 fc 
+11:16:27.441 -> ' with RSSI -19
+11:16:32.513 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:32.513 -> ' with RSSI -19
+11:16:32.743 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 33 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 34 d a 1 3 26 0 0 5 1 46 
+11:16:32.743 -> ' with RSSI -19
+11:16:37.783 -> Received packet 'SerialNumber 
+11:16:37.783 -> ' with RSSI -17
+11:16:38.013 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 35 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 36 d a 1 3 90 0 0 7 c9 fc 
+11:16:38.013 -> ' with RSSI -20
+11:16:43.075 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:43.075 -> ' with RSSI -19
+11:16:43.305 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 37 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 38 d a 1 3 26 0 0 5 1 46 
+11:16:43.351 -> ' with RSSI -19
+11:16:48.360 -> Received packet 'SerialNumber 
+11:16:48.360 -> ' with RSSI -17
+11:16:48.591 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 34 39 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 30 d a 1 3 90 0 0 7 c9 fc 
+11:16:48.591 -> ' with RSSI -20
+11:16:53.679 -> Received packet 'transmitiendo getTempCondRequest... 
+11:16:53.679 -> ' with RSSI -19
+11:16:53.917 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 31 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 32 d a 1 3 26 0 0 5 1 46 
+11:16:53.917 -> ' with RSSI -19
+11:16:58.942 -> Received packet 'SerialNumber 
+11:16:58.942 -> ' with RSSI -17
+11:16:59.174 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 33 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 34 d a 1 3 90 0 0 7 c9 fc 
+11:16:59.174 -> ' with RSSI -20
+11:17:04.259 -> Received packet 'transmitiendo getTempCondRequest... 
+11:17:04.259 -> ' with RSSI -19
+11:17:04.445 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 35 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 36 d a 1 3 26 0 0 5 1 46 
+11:17:04.492 -> ' with RSSI -19
+11:17:09.532 -> Received packet 'SerialNumber 
+11:17:09.532 -> ' with RSSI -17
+11:17:09.719 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 37 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 38 d a 1 3 90 0 0 7 c9 fc 
+11:17:09.766 -> ' with RSSI -20
+11:17:14.804 -> Received packet 'transmitiendo getTempCondRequest... 
+11:17:14.804 -> ' with RSSI -20
+11:17:15.043 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 39 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 30 d a 1 3 26 0 0 5 1 46 
+11:17:15.043 -> ' with RSSI -20
+11:17:20.101 -> Received packet 'SerialNumber 
+11:17:20.101 -> ' with RSSI -17
+11:17:20.333 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 31 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 32 d a 1 3 90 0 0 7 c9 fc 
+11:17:20.333 -> ' with RSSI -20
+11:17:25.402 -> Received packet 'transmitiendo getTempCondRequest... 
+11:17:25.402 -> ' with RSSI -19
+11:17:25.636 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 33 d a 53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 34 d a 1 3 26 0 0 5 1 46 
+11:17:25.636 -> ' with RSSI -20
+11:17:30.665 -> Received packet 'SerialNumber 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+11:21:59.902 -> Received packet 'SerialNumber 
+11:21:59.902 -> ' with RSSI -17
+11:22:00.046 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 35 34 d a 1 3 90 0 0 7 c9 fc 
+11:22:00.094 -> ' with RSSI -20
+11:22:09.253 -> Received packet 'transmitiendo getTempCondRequest... 
+11:22:09.300 -> ' with RSSI -19
+11:22:09.346 -> Received packet 'bc cb 2b 8b 9 bd 85 c9 91 35 a 1 3 26 0 0 5 1 46 
+11:22:09.392 -> ' with RSSI -19
+11:22:14.393 -> Received packet 'SerialNumber 
+11:22:14.393 -> ' with RSSI -17
+11:22:14.532 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 32 d a 1 3 90 0 0 7 c9 fc 
+11:22:14.578 -> ' with RSSI -19
+11:22:19.617 -> Received packet 'transmitiendo getTempCondRequest... 
+11:22:19.617 -> ' with RSSI -19
+11:22:19.756 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 33 d a 1 3 26 0 0 5 1 46 
+11:22:19.756 -> ' with RSSI -18
+11:22:24.786 -> Received packet 'SerialNumber 
+11:22:24.786 -> ' with RSSI -16
+11:22:24.925 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 36 d a 1 3 90 0 0 7 c9 fc 
+11:22:24.925 -> ' with RSSI -20
+11:22:30.023 -> Received packet 'transmitiendo getTempCondRequest... 
+11:22:30.023 -> ' with RSSI -19
+11:22:30.163 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 37 d a 1 3 26 0 0 5 1 46 
+11:22:30.163 -> ' with RSSI -18
+11:22:35.204 -> Received packet 'SerialNumber 
+11:22:35.204 -> ' with RSSI -16
+11:22:35.349 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 30 d a 1 3 90 0 0 7 c9 fc 
+11:22:35.349 -> ' with RSSI -18
+11:22:40.397 -> Received packet 'transmitiendo getTempCondRequest... 
+11:22:40.397 -> ' with RSSI -19
+11:22:40.536 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 31 d a 1 3 26 0 0 5 1 46 
+11:22:40.536 -> ' with RSSI -20
+11:22:45.570 -> Received packet 'SerialNumber 
+11:22:45.570 -> ' with RSSI -16
+11:22:45.707 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 34 d a 1 3 90 0 0 7 c9 fc 
+11:22:45.707 -> ' with RSSI -19
+11:22:50.779 -> Received packet 'transmitiendo getTempCondRequest... 
+11:22:50.779 -> ' with RSSI -19
+11:22:50.918 -> Received packet '53 65 6e 64 69 6e 67 20 70 61 63 6b 65 74 3a 20 31 35 d a 1 3 26 0 0 5 1 46 
+
+-------------------------------------------------------------------------------------------------------------------
+
+11:57:38.344 -> ' with RSSI -19
+11:57:40.373 -> Received packet 'SerialNumber 
+11:57:40.373 -> ' with RSSI -17
+11:57:40.419 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:57:40.419 -> ' with RSSI -18
+11:57:42.512 -> Received packet 'transmitiendo getTempCondRequest... 
+11:57:42.512 -> ' with RSSI -19
+11:57:42.558 -> Received packet '1 3 26 0 0 5 1 46 
+11:57:42.558 -> ' with RSSI -19
+11:57:44.590 -> Received packet 'SerialNumber 
+11:57:44.590 -> ' with RSSI -17
+11:57:44.683 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:57:44.683 -> ' with RSSI -18
+11:57:46.718 -> Received packet 'transmitiendo getTempCondRequest... 
+11:57:46.766 -> ' with RSSI -19
+11:57:46.814 -> Received packet '1 3 26 0 0 5 1 46 
+11:57:46.814 -> ' with RSSI -19
+11:57:48.842 -> Received packet 'SerialNumber 
+11:57:48.842 -> ' with RSSI -17
+11:57:48.888 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:57:48.888 -> ' with RSSI -18
+11:57:50.951 -> Received packet 'transmitiendo getTempCondRequest... 
+11:57:50.951 -> ' with RSSI -19
+11:57:51.045 -> Received packet '1 3 26 0 0 5 1 46 
+11:57:51.045 -> ' with RSSI -19
+11:57:53.055 -> Received packet 'SerialNumber 
+11:57:53.055 -> ' with RSSI -17
+11:57:53.102 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:57:53.102 -> ' with RSSI -18
+11:57:55.208 -> Received packet 'transmitiendo getTempCondRequest... 
+11:57:55.208 -> ' with RSSI -19
+11:57:55.255 -> Received packet '1 3 26 0 0 5 1 46 
+11:57:55.255 -> ' with RSSI -19
+11:57:57.276 -> Received packet 'SerialNumber 
+11:57:57.276 -> ' with RSSI -17
+11:57:57.323 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:57:57.323 -> ' with RSSI -18
+11:57:59.396 -> Received packet 'transmitiendo getTempCondRequest... 
+11:57:59.443 -> ' with RSSI -19
+11:57:59.487 -> Received packet '1 3 26 0 0 5 1 46 
+11:57:59.487 -> ' with RSSI -19
+11:58:01.516 -> Received packet 'SerialNumber 
+11:58:01.516 -> ' with RSSI -17
+11:58:01.561 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:58:01.561 -> ' with RSSI -18
+11:58:03.635 -> Received packet 'transmitiendo getTempCondRequest... 
+11:58:03.635 -> ' with RSSI -19
+11:58:03.682 -> Received packet '1 3 26 0 0 5 1 46 
+11:58:03.682 -> ' with RSSI -19
+11:58:05.759 -> Received packet 'SerialNumber 
+11:58:05.759 -> ' with RSSI -17
+11:58:05.805 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:58:05.805 -> ' with RSSI -18
+11:58:07.870 -> Received packet 'transmitiendo getTempCondRequest... 
+11:58:07.870 -> ' with RSSI -19
+11:58:07.916 -> Received packet '1 3 26 0 0 5 1 46 
+11:58:07.916 -> ' with RSSI -19
+11:58:09.945 -> Received packet 'SerialNumber 
+11:58:09.991 -> ' with RSSI -17
+11:58:10.037 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:58:10.037 -> ' with RSSI -18
+11:58:12.109 -> Received packet 'transmitiendo getTempCondRequest... 
+11:58:12.109 -> ' with RSSI -19
+11:58:12.156 -> Received packet '1 3 26 0 0 5 1 46 
+11:58:12.156 -> ' with RSSI -19
+11:58:14.179 -> Received packet 'SerialNumber 
+11:58:14.179 -> ' with RSSI -17
+11:58:14.226 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:58:14.226 -> ' with RSSI -18
+11:58:16.330 -> Received packet 'transmitiendo getTempCondRequest... 
+11:58:16.330 -> ' with RSSI -19
+11:58:16.377 -> Received packet '1 3 26 0 0 5 1 46 
+11:58:16.377 -> ' with RSSI -19
+11:58:18.393 -> Received packet 'SerialNumber 
+11:58:18.439 -> ' with RSSI -16
+11:58:18.487 -> Received packet '1 3 90 0 0 7 c9 fc 
+11:58:18.487 -> ' with RSSI -18
+11:58:20.546 -> Received packet 'transmitiendo getTempCondRequest... 
+11:58:20.546 -> ' with RSSI -18
+11:58:20.592 -> Received packet '1 3 26 0 0 5 1 46 
