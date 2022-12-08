@@ -1,0 +1,2 @@
+https://github.com/LilyGO/TTGO-LORA32#readme
+https://randomnerdtutorials.com/ttgo-lora32-sx1276-arduino-ide/
